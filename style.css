@@ -1,0 +1,29 @@
+
+body{
+    background: #ff6206;
+	background-image: url("../images/background.png"); 
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+    margin:75px 0;
+}
+.food-details h1{
+    font-weight: 600;
+    color:#1d1d1d;
+    font-size: 21px;
+}
+.food-details span{
+    font-size: 18px;
+    color:#6fda72;
+}
+.food-details p{
+    color:#1d1d1d;
+    font-size: 12px;
+    line-height:20px;
+}
+.food-details input[type="button"]{
+    padding:10px 0 8px;
+    font-size:14px;
+}
+.food-details{
+    margin-bottom: 70px;
+}
